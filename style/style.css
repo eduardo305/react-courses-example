@@ -1,0 +1,10 @@
+.course-item-wrapper {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid lightgray;
+}
+
+.course-item {
+  padding: 10px;
+  margin-bottom: 10px;
+}
